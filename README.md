@@ -1,0 +1,1 @@
+# cf_ai_anki_generator
